@@ -4,6 +4,10 @@
 💻 **Software Engineer** specializing in very high scale distributed systems, high-throughput microservices, and reactive backend architecture.
 
 ---
+### Achievements | (sorted based on scale)
+- Developed a new **return service** to have a customized image upload system create right return and reduce CRM workload in Hackathon.
+- Migrated the database of tier 0 pricing service at Lowe's from Couchbase to Cassandra.
+- Founding developer of **Lowe's marketplace** where I integrated the pricing API to onboard the products into Lowe's marketplace.
 
 ### 🛠️ Technical Skills
 
