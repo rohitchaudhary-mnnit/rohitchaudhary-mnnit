@@ -5,9 +5,9 @@
 
 ---
 ### Achievements | (sorted based on scale)
-- Developed a new **return service** to have a customized image upload system create right return and reduce CRM workload in Hackathon.
-- Migrated the database of tier 0 pricing service at Lowe's from Couchbase to Cassandra.
-- Founding developer of **Lowe's marketplace** where I integrated the pricing API to onboard the products into Lowe's marketplace.
+- **Flipkart PXP Hackathon Winner** (2023): Built an image-template driven return service for Flipkart's post-order platform.
+- Migrated the database of Tier0 pricing service at Lowe's from Couchbase to Cassandra.
+- Founding developer of **Lowe's Marketplace** where I integrated the pricing API to onboard the products into Lowe's marketplace.
 
 ### 🛠️ Technical Skills
 
